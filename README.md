@@ -1,1 +1,8 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Download code
+
+npm install
+
+npm run dev
+
+Open localhost:3000 to view locally
+
